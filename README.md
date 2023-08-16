@@ -1,7 +1,7 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Rahul-kr0.io)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/334414c708bb9cbda4332fe16f8675b03e142e66ec8b78364b3207dc0b7b7a33/68747470733a2f2f6861636b2e636f64696e67626c6f636b732e636f6d2f5f6e7578742f696d672f6d61696e6769662e313634363032312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-kr0&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-kr0" /> </p>
